@@ -1,6 +1,7 @@
 package edu.ncsu.monopoly;
 //updated augost 24 with a comment
 //eguneraketa labo
+//Beste aldaketa bat
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
